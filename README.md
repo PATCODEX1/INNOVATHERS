@@ -132,6 +132,10 @@ are available in the **SCREENSHOTS** folder.
 
 ---
 
+## 📽 Presentation
+
+The project presentation slides are available in the **PRESENTATION** folder.
+
 ## 👥 Authors
 
 Team: **INNOVATHERS**
