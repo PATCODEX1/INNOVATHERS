@@ -138,7 +138,7 @@ The project presentation slides are available in the **PRESENTATION** folder.
 
 ## 👥 Authors
 
-Team: **INNOVATHERS**
+Team: **INNOVATHERS by PATCODEX**
 
 Student Dropout Analysis Capstone Project
 
